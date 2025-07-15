@@ -1,9 +1,7 @@
 import postgres from 'postgres';
 import {
-  CustomerField,
   CustomersTableType,
   InvoiceForm,
-  Invoice,
   InvoicesTable,
   LatestInvoiceRaw,
   Revenue,
